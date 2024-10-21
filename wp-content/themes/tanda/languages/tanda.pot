@@ -1,0 +1,1162 @@
+# Copyright (C) 2024 WordPressRiver
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanda 1.3.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/tanda\n"
+"POT-Creation-Date: 2024-05-27 16:01:46+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:21
+msgid "404 Error"
+msgstr ""
+
+#: 404.php:25 archive.php:59 author.php:32 category.php:27 index.php:32
+#: page-templates/blog-2column.php:17 page-templates/blog-3column.php:17
+#: page-templates/blog-sidebar.php:27 page-templates/blog-standard.php:17
+#: page-templates/pages-image.php:17 page-templates/pages.php:17
+#: page-templates/woo-commerce.php:17 page.php:27 search.php:32 single.php:27
+#: tag.php:32 woocommerce/archive-product.php:32
+#: woocommerce/single-product.php:34
+msgid "Home"
+msgstr ""
+
+#: 404.php:26
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: 404.php:40
+msgid "404"
+msgstr ""
+
+#: 404.php:41
+msgid "SORRY PAGE WAS NOT FOUND!"
+msgstr ""
+
+#: 404.php:45 header-v3.php:93 header-v4.php:51 header-v5.php:51 search.php:68
+#: searchform.php:4
+msgid "Search Here..."
+msgstr ""
+
+#: 404.php:50
+msgid "Back To Home"
+msgstr ""
+
+#: archive.php:30
+msgid "Daily Archives: "
+msgstr ""
+
+#: archive.php:33
+msgid "Monthly Archives: "
+msgstr ""
+
+#: archive.php:37
+msgid "Yearly Archives: "
+msgstr ""
+
+#: archive.php:51 archive.php:60
+msgid "Archives"
+msgstr ""
+
+#: author.php:28
+msgid "All posts by "
+msgstr ""
+
+#: author.php:33
+msgid "Author"
+msgstr ""
+
+#: category.php:23
+msgid "Category Archives: "
+msgstr ""
+
+#: category.php:28
+msgid "Category"
+msgstr ""
+
+#: comments.php:19
+msgid "0 Comment"
+msgstr ""
+
+#: comments.php:19
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:19
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:53
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:61 woocommerce/single-product/single-product-reviews.php:77
+#: woocommerce/single-product-reviews.php:77
+msgid "Name"
+msgstr ""
+
+#: comments.php:67 inc/redux/config.php:104
+#: woocommerce/single-product/single-product-reviews.php:83
+#: woocommerce/single-product-reviews.php:83
+msgid "Email"
+msgstr ""
+
+#: comments.php:74
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:76
+msgid "Post Comment"
+msgstr ""
+
+#: footer-shop.php:18 footer-v1.php:18 footer-v11.php:18 footer-v2.php:18
+msgid "Shape"
+msgstr ""
+
+#: footer-shop.php:26 footer-v1.php:26 footer-v11.php:26 footer-v2.php:26
+#: header-shop.php:133 header-v1.php:114 header-v10.php:79 header-v11.php:65
+#: header-v11.php:66 header-v2.php:65 header-v2.php:66 header-v3.php:45
+#: header-v3.php:107 header-v4.php:79 header-v5.php:78 header-v5.php:79
+#: header-v6.php:112 header-v6.php:113 header-v7.php:59 header-v7.php:60
+#: header.php:54 inc/redux/config.php:326 inc/redux/config.php:333
+msgid "Logo"
+msgstr ""
+
+#: footer.php:20
+msgid "Copyright &copy;  2024. Designed by"
+msgstr ""
+
+#: footer.php:20
+msgid "WordPressRiver"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported
+#.     by chosen font(s), translate this to 'off'. Do not translate into your
+#. own language.
+
+#: functions.php:54
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:323 functions.php:334
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:324 inc/redux/config.php:450
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:325 inc/redux/config.php:284 inc/redux/config.php:294
+#: inc/redux/config.php:302
+msgid "Additional Links"
+msgstr ""
+
+#: functions.php:326 inc/redux/config.php:459 inc/redux/config.php:477
+msgid "Company Links"
+msgstr ""
+
+#: functions.php:327 inc/redux/config.php:504
+msgid "Solution Links"
+msgstr ""
+
+#: functions.php:357
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:359
+msgid "Widgets in this area will be shown on all posts and pages."
+msgstr ""
+
+#: functions.php:485 functions.php:502 functions.php:519 functions.php:536
+#: functions.php:553 functions.php:570 functions.php:587 functions.php:604
+#: functions.php:621 functions.php:638 functions.php:655 functions.php:672
+#: functions.php:689 functions.php:706 functions.php:723 functions.php:740
+#: functions.php:757 functions.php:774 functions.php:791 functions.php:808
+#: functions.php:825 functions.php:842
+msgid "Import process may take 2-5 minutes. If you facing any issues please contact our support."
+msgstr ""
+
+#: header-shop.php:119
+msgid "Checkout"
+msgstr ""
+
+#: inc/redux/config.php:22
+msgid "Tanda Options"
+msgstr ""
+
+#: inc/redux/config.php:48
+msgid "Top Bar"
+msgstr ""
+
+#: inc/redux/config.php:49
+msgid "topbar"
+msgstr ""
+
+#: inc/redux/config.php:54 inc/redux/config.php:199 inc/redux/config.php:291
+#: inc/redux/config.php:466 inc/redux/config.php:493 inc/redux/config.php:520
+msgid "Heading"
+msgstr ""
+
+#: inc/redux/config.php:57 inc/redux/config.php:513 inc/redux/config.php:523
+msgid "Contact Info"
+msgstr ""
+
+#: inc/redux/config.php:62 inc/redux/config.php:528
+msgid "Section 1"
+msgstr ""
+
+#: inc/redux/config.php:69 inc/redux/config.php:101 inc/redux/config.php:133
+#: inc/redux/config.php:165 inc/redux/config.php:353
+msgid "Title"
+msgstr ""
+
+#: inc/redux/config.php:72
+msgid "Address"
+msgstr ""
+
+#: inc/redux/config.php:77 inc/redux/config.php:109 inc/redux/config.php:141
+#: inc/redux/config.php:173 inc/redux/config.php:214 inc/redux/config.php:238
+#: inc/redux/config.php:262 inc/redux/config.php:361 inc/redux/config.php:395
+#: inc/redux/config.php:535 inc/redux/config.php:559 inc/redux/config.php:591
+msgid "Icon Class"
+msgstr ""
+
+#: inc/redux/config.php:79 inc/redux/config.php:111 inc/redux/config.php:143
+#: inc/redux/config.php:175 inc/redux/config.php:216 inc/redux/config.php:240
+#: inc/redux/config.php:264 inc/redux/config.php:363 inc/redux/config.php:537
+#: inc/redux/config.php:561 inc/redux/config.php:593
+msgid "Paste Font-Aweosme Icon Class"
+msgstr ""
+
+#: inc/redux/config.php:81
+msgid "fas fa-map-marker-alt"
+msgstr ""
+
+#: inc/redux/config.php:86 inc/redux/config.php:118 inc/redux/config.php:150
+#: inc/redux/config.php:182 inc/redux/config.php:370 inc/redux/config.php:544
+#: inc/redux/config.php:568 inc/redux/config.php:600
+msgid "Text"
+msgstr ""
+
+#: inc/redux/config.php:89
+msgid "California, TX 70240"
+msgstr ""
+
+#: inc/redux/config.php:94 inc/redux/config.php:552
+msgid "Section 2"
+msgstr ""
+
+#: inc/redux/config.php:113
+msgid "fas fa-envelope-open"
+msgstr ""
+
+#: inc/redux/config.php:121 inc/redux/config.php:571
+msgid "Info@gmail.com"
+msgstr ""
+
+#: inc/redux/config.php:126 inc/redux/config.php:584
+msgid "Section 3"
+msgstr ""
+
+#: inc/redux/config.php:136
+msgid "OFFICE HOURS"
+msgstr ""
+
+#: inc/redux/config.php:145
+msgid "fas fa-clock"
+msgstr ""
+
+#: inc/redux/config.php:153
+msgid "Office Hours: 8:00 AM – 7:45 PM"
+msgstr ""
+
+#: inc/redux/config.php:158
+msgid "Section 4"
+msgstr ""
+
+#: inc/redux/config.php:168
+msgid "Phone"
+msgstr ""
+
+#: inc/redux/config.php:177 inc/redux/config.php:365
+msgid "fas fa-phone"
+msgstr ""
+
+#: inc/redux/config.php:185 inc/redux/config.php:603
+msgid "+123 456 7890"
+msgstr ""
+
+#: inc/redux/config.php:192
+msgid "Social Icons"
+msgstr ""
+
+#: inc/redux/config.php:193
+msgid "socialicons"
+msgstr ""
+
+#: inc/redux/config.php:202
+msgid "Connect With Us"
+msgstr ""
+
+#: inc/redux/config.php:207
+msgid "Section One"
+msgstr ""
+
+#: inc/redux/config.php:218
+msgid "fab fa-facebook-f"
+msgstr ""
+
+#: inc/redux/config.php:223 inc/redux/config.php:247 inc/redux/config.php:271
+msgid "Link"
+msgstr ""
+
+#: inc/redux/config.php:226 inc/redux/config.php:250 inc/redux/config.php:274
+#: inc/redux/config.php:398
+msgid "#"
+msgstr ""
+
+#: inc/redux/config.php:231
+msgid "Section Two"
+msgstr ""
+
+#: inc/redux/config.php:242
+msgid "fab fa-twitter"
+msgstr ""
+
+#: inc/redux/config.php:255
+msgid "Section Three"
+msgstr ""
+
+#: inc/redux/config.php:266
+msgid "fab fa-linkedin-in"
+msgstr ""
+
+#: inc/redux/config.php:285
+msgid "additional"
+msgstr ""
+
+#: inc/redux/config.php:299 inc/redux/config.php:447 inc/redux/config.php:474
+#: inc/redux/config.php:501
+msgid "Menu Location"
+msgstr ""
+
+#: inc/redux/config.php:310
+msgid "Header"
+msgstr ""
+
+#: inc/redux/config.php:311
+msgid "header"
+msgstr ""
+
+#: inc/redux/config.php:316
+msgid "Favicon"
+msgstr ""
+
+#: inc/redux/config.php:343
+msgid "Sticky Logo"
+msgstr ""
+
+#: inc/redux/config.php:356
+msgid "Call us today!"
+msgstr ""
+
+#: inc/redux/config.php:373
+msgid "+123(456)123"
+msgstr ""
+
+#: inc/redux/config.php:380
+msgid "Buttons"
+msgstr ""
+
+#: inc/redux/config.php:381
+msgid "headerbuttons"
+msgstr ""
+
+#: inc/redux/config.php:387
+msgid "Button Text"
+msgstr ""
+
+#: inc/redux/config.php:390
+msgid "Get Started"
+msgstr ""
+
+#: inc/redux/config.php:405
+msgid "Footer"
+msgstr ""
+
+#: inc/redux/config.php:406
+msgid "footer"
+msgstr ""
+
+#: inc/redux/config.php:411
+msgid "Footer Logo"
+msgstr ""
+
+#: inc/redux/config.php:421
+msgid "Footer Logo Version 2"
+msgstr ""
+
+#: inc/redux/config.php:431 woocommerce/single-product/tabs/description.php:22
+msgid "Description"
+msgstr ""
+
+#: inc/redux/config.php:434
+msgid "Happen active county. Winding for the morning am shyness evident to poor. Garrets because elderly new."
+msgstr ""
+
+#: inc/redux/config.php:439
+msgid "CopyRight Text"
+msgstr ""
+
+#: inc/redux/config.php:442
+msgid "&copy; Copyright 2024. Tanda WordPres Theme By WordPressRiver"
+msgstr ""
+
+#: inc/redux/config.php:460
+msgid "companylinkshead"
+msgstr ""
+
+#: inc/redux/config.php:469
+msgid "Company"
+msgstr ""
+
+#: inc/redux/config.php:486
+msgid "Solutions Links"
+msgstr ""
+
+#: inc/redux/config.php:487
+msgid "solutionlinkshead"
+msgstr ""
+
+#: inc/redux/config.php:496
+msgid "Solutions"
+msgstr ""
+
+#: inc/redux/config.php:514
+msgid "contactinfofooter"
+msgstr ""
+
+#: inc/redux/config.php:539
+msgid "flaticon-pin"
+msgstr ""
+
+#: inc/redux/config.php:547
+msgid "5919 Trussville Crossings Pkwy, Birmingham AL 35235"
+msgstr ""
+
+#: inc/redux/config.php:563
+msgid "flaticon-email-1"
+msgstr ""
+
+#: inc/redux/config.php:576 inc/redux/config.php:608
+msgid "Text 2"
+msgstr ""
+
+#: inc/redux/config.php:579
+msgid "support@gmail.com"
+msgstr ""
+
+#: inc/redux/config.php:595
+msgid "flaticon-telephone"
+msgstr ""
+
+#: inc/redux/config.php:611
+msgid "+456 123 4455"
+msgstr ""
+
+#: inc/redux/config.php:619
+msgid "Styling"
+msgstr ""
+
+#: inc/redux/config.php:620
+msgid "tanda_color"
+msgstr ""
+
+#: inc/redux/config.php:625
+msgid "Main Theme Color"
+msgstr ""
+
+#: inc/redux/config.php:626
+msgid "The main color of the site."
+msgstr ""
+
+#: inc/redux/config.php:629
+msgid "Sky Blue"
+msgstr ""
+
+#: inc/redux/config.php:630
+msgid "Strong Blue"
+msgstr ""
+
+#: inc/redux/config.php:631
+msgid "Orange"
+msgstr ""
+
+#: inc/redux/config.php:632
+msgid "Pink"
+msgstr ""
+
+#: inc/redux/config.php:633
+msgid "Green"
+msgstr ""
+
+#: inc/redux/config.php:634
+msgid "Purple"
+msgstr ""
+
+#: inc/redux/config.php:635
+msgid "Custom Colors"
+msgstr ""
+
+#: inc/redux/config.php:642
+msgid "Custom Color Option"
+msgstr ""
+
+#: inc/redux/config.php:650
+msgid "Choose Main Theme Color"
+msgstr ""
+
+#: inc/redux/config.php:660
+msgid "Choose Theme Gradient Color"
+msgstr ""
+
+#: index.php:28 index.php:33 page-templates/blog-2column.php:18
+#: page-templates/blog-3column.php:18 page-templates/blog-sidebar.php:23
+#: page-templates/blog-sidebar.php:28 page-templates/blog-standard.php:18
+#: search.php:33
+msgid "Blog"
+msgstr ""
+
+#: page-templates/blog-2column.php:13 page-templates/blog-3column.php:13
+msgid "Blog Grid"
+msgstr ""
+
+#: page-templates/blog-2column.php:60 page-templates/blog-3column.php:60
+#: template-parts/content.php:36
+msgid "Read More"
+msgstr ""
+
+#: page-templates/blog-standard.php:13
+msgid "Blog Standard"
+msgstr ""
+
+#: page-templates/pages-image.php:18 page-templates/pages.php:18
+msgid "Pages"
+msgstr ""
+
+#: page.php:28 single.php:28
+msgid "Blog Details"
+msgstr ""
+
+#: search.php:28
+msgid "Search Results For : "
+msgstr ""
+
+#: search.php:61
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:64
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: tag.php:28
+msgid "Tag Archives: "
+msgstr ""
+
+#: tag.php:33
+msgid "Tag Archives"
+msgstr ""
+
+#: template-parts/content-page.php:45
+msgid "Previous Post"
+msgstr ""
+
+#: template-parts/content-page.php:52
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/content.php:24
+msgid "STICKY POST"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+
+#: tgm-plugin/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:393
+#: tgm-plugin/class-tgm-plugin-activation.php:912
+#: tgm-plugin/class-tgm-plugin-activation.php:2618
+#: tgm-plugin/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:394
+#: tgm-plugin/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:395
+#: tgm-plugin/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:1019
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:1019
+#: tgm-plugin/class-tgm-plugin-activation.php:1022
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:1022
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:1206
+#: tgm-plugin/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2067
+msgid "TGMPA v%s"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2427
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2473
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2477
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2481
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2485
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2688
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2693
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2699
+msgid "Activate %2$s"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3583
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3586
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3588
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3592
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3594
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3594
+#: tgm-plugin/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3594
+#: tgm-plugin/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3597
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3600
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3602
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3605
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: tgm-plugin/recommend_plugins.php:63
+msgid "Contact Form 7"
+msgstr ""
+
+#: tgm-plugin/recommend_plugins.php:69
+msgid "One Click Demo Import"
+msgstr ""
+
+#: tgm-plugin/recommend_plugins.php:75
+msgid "WooCommerce"
+msgstr ""
+
+#: tgm-plugin/recommend_plugins.php:87
+msgid "Redux Framework"
+msgstr ""
+
+#: tgm-plugin/recommend_plugins.php:93
+msgid "Safe SVG"
+msgstr ""
+
+#: tgm-plugin/recommend_plugins.php:99
+msgid "Tanda Core"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:47
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/single-product-reviews.php:52
+#: woocommerce/single-product-reviews.php:52
+msgid "There are no reviews yet."
+msgstr ""
+
+#. translators: %s is product title
+
+#: woocommerce/single-product/single-product-reviews.php:63
+#: woocommerce/single-product-reviews.php:63
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product/single-product-reviews.php:63
+#: woocommerce/single-product-reviews.php:63
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: %s is product title
+
+#: woocommerce/single-product/single-product-reviews.php:65
+#: woocommerce/single-product-reviews.php:65
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product/single-product-reviews.php:69
+#: woocommerce/single-product-reviews.php:69
+msgid "Submit"
+msgstr ""
+
+#. translators: %s opening and closing link tags respectively
+
+#: woocommerce/single-product/single-product-reviews.php:108
+#: woocommerce/single-product-reviews.php:112
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product/single-product-reviews.php:111
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product/single-product-reviews.php:118
+#: woocommerce/single-product-reviews.php:133
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:22
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:116
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:117
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:118
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:119
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:120
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:121
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:122
+msgid "Very poor"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Tanda"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://wpriverthemes.com/tandaelem/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Technology and IT Solutions WordPress Theme with Six Pre-Defined Colors."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WordPressRiver"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/wordpressriver"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Grid"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Grid 3 Colum"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Without Sidebar"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home 1"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home 10"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home 11"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home 2"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home 3"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home 4"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home 5"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home 6"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home 7"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home 9"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Other Pages with Banner"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Other Pages"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Woo-Commerce Pages"
+msgstr ""
